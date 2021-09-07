@@ -1,0 +1,47 @@
+.dropdown-item:hover{
+    background-color: #B22222 !important;
+}
+
+#logo{
+    width: 42px !important;
+    margin-right: 2%;
+}
+
+.perfil{
+    background-color: #900C3F !important;
+    border-color: maroon !important ;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+.bg-rodape{
+    background-color: #C70039  !important;
+}
+
+.login{
+    background-color: white;
+    box-shadow: 0 0 10px gray !important;
+    border-radius: 3px;
+}
+
+.entrar{
+    width: 35%;
+}
+
+.registrar{
+    width: 80%;
+}
+
+.login input[text]{
+    width: 99%;
+    height: 36px;
+    margin-bottom: 3%;
+}
+
+.cards{
+    text-decoration: none !important;
+}
+
+
